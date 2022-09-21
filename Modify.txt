@@ -1,0 +1,2 @@
+1. make each letter to upper case 
+2. make code simpler 

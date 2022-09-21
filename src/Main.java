@@ -32,6 +32,7 @@ public class Main {
           j++;
           System.out.println(j + "." + i.next()); 
           
+          
         }
         System.out.println("=====================");
     
